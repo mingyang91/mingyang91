@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ming Yang's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 68, Total Commits  (last year) : 2671, Total PRs: 191, Total PRs Merged: 167, Merged PRs Percentage: 87.43, Total PRs Reviewed: 2, Total Issues: 25, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 68, Total Commits  (last year) : 2669, Total PRs: 191, Total PRs Merged: 167, Merged PRs Percentage: 87.43, Total PRs Reviewed: 2, Total Issues: 25, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.23368884561444;
+        stroke-dashoffset: 62.233830426381274;
       }
     }
   
