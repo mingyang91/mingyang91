@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ming Yang's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 72, Total Commits  (last year) : 4974, Total PRs: 332, Total PRs Merged: 298, Merged PRs Percentage: 89.76, Total PRs Reviewed: 33, Total Issues: 282, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 72, Total Commits  (last year) : 4991, Total PRs: 339, Total PRs Merged: 304, Merged PRs Percentage: 89.68, Total PRs Reviewed: 33, Total Issues: 290, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.27390407383103;
+        stroke-dashoffset: 36.213963659156086;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >332</text>
+      >339</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >298</text>
+      >304</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >89.76 %</text>
+      >89.68 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >282</text>
+      >290</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
