@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ming Yang's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 73, Total Commits  (last year) : 5024, Total PRs: 358, Total PRs Merged: 322, Merged PRs Percentage: 89.94, Total PRs Reviewed: 33, Total Issues: 320, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 73, Total Commits  (last year) : 5039, Total PRs: 358, Total PRs Merged: 323, Merged PRs Percentage: 90.22, Total PRs Reviewed: 33, Total Issues: 321, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 35.79861599896763;
+        stroke-dashoffset: 35.79853416942846;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >322</text>
+      >323</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >89.94 %</text>
+      >90.22 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >320</text>
+      >321</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
